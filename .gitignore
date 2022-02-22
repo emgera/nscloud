@@ -2,6 +2,8 @@
 hooks/
 node_modules/
 platforms/
+.nsremote.config.json
+.nsremote.env.json
 
 # Logs
 logs
